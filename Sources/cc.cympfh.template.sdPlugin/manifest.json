@@ -1,0 +1,38 @@
+{
+  "Actions": [
+    {
+      "Icon": "action/images/actionimage",
+      "Name": "cympfhTemplate",
+      "States": [
+        {
+          "Image": "action/images/action"
+        }
+      ],
+      "Tooltip": "cympfhTemplate",
+      "UUID": "cc.cympfh.template.action"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "cympfh",
+  "CodePath": "index.html",
+  "PropertyInspectorPath": "propertyinspector/index.html",
+  "Description": "cympfh templatelate project",
+  "Name": "cympfhTemplate",
+  "Icon": "action/images/action",
+  "URL": "https://github.com/cympfh",
+  "Version": "0.0.1",
+  "OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software":
+    {
+        "MinimumVersion" : "4.1"
+  }
+}
